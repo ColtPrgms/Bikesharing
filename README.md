@@ -7,7 +7,7 @@
 #### Results:
   Below is a link to the visualizations from the NYC CitiBike data.
   
-  [link to dashboard](https://public.tableau.com/shared/RP6988YYB?:display_count=n&:origin=viz_share_link)
+  [link to dashboard](https://public.tableau.com/views/Challenge14_16628789141040/NYCCitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
   (review "NYC CitiBike Analysis.pdf" if link does not work)
   
 #### Summary:
